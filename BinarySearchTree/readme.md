@@ -17,7 +17,7 @@ Root 2 --> Soluna --> 5'nin soluna --> 1'ni soluna --> 3'ün soluna
 ```
 -----------------------
 
-# Dizinin Şema İle Gösterimi
+## Dizinin Şema İle Gösterimi
 
                7
               / \
